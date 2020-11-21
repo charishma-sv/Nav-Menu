@@ -1,0 +1,49 @@
+html {
+  background-color: rgb(214, 231, 191);
+  color: rgba(10, 56, 117, 0.904);
+}
+main {
+  display: block;
+}
+#head {
+  display: inline-block;
+}
+
+#menu {
+  float: right;
+}
+#menu a {
+  text-decoration: none;
+  color: rgba(10, 56, 117, 0.904);
+}
+.foot {
+  text-align: center;
+}
+
+.wrap {
+  width: 100%;
+  text-align: center;
+  display: none;
+  background-color: rgb(67, 221, 241);
+  height: 14em;
+}
+.wrap div {
+  display: inline-block;
+}
+.wrap div span {
+  display: inline-block;
+  padding-top: 6em;
+}
+
+.left {
+  float: left;
+  width: 30%;
+  height: 100%;
+  background-color: rgb(71, 172, 255);
+}
+.right {
+  float: right;
+  width: 30%;
+  height: 100%;
+  background-color: rgb(71, 172, 255);
+}
