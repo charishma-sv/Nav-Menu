@@ -26,6 +26,8 @@ main {
   display: none;
   background-color: rgb(67, 221, 241);
   height: 14em;
+  position: sticky;
+  top: 0;
 }
 .wrap div {
   display: inline-block;
